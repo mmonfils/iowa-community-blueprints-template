@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Three Scales Research Guide
+title: Determinants Framework
 description: Tracking how macro policy choices impact immediate neighborhood stability.
 ---
 
-# The Three Scales Guide: Community Fact-Finding Framework
+# The Determinants Framework: Community Fact-Finding Guide
 
 This framework helps independent data researchers map local friction points using free, public open records. It replaces sterile academic jargon with three clear, visible levels of neighborhood impact.
 
@@ -31,5 +31,5 @@ Document the concrete, everyday impact felt by residents along a specific street
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Policy Navigation Index](./README.md)  
-[← Back to Live Mobile Landing Page](../index.md)
+[← Back to Local Control Panel](./index.md)  
+[← Back to Live Master Engine](https://mmonfils.github.io/iowa-community-blueprints/)

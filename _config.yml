@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: Local Community Blueprint
 description: A free, mobile-optimized space tracking neighborhood assets, public records, and local protection action roadmaps.
+
+# Exclude raw tracking databases from compiling into public HTML assets
+exclude:
+  - exchange-log-template.csv
+  - neighborhood-toolkit-template.csv
+  - neighborhood-index-template.csv
+  - LICENSE

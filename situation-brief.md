@@ -40,5 +40,5 @@ description: Pre-formatted four-quadrant analysis identifying local breakdowns.
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Control Panel](./index.md)  
-[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints-template/)
+[← Back to Local Control Panel](./index.md)  
+[← Back to Live Master Engine](https://mmonfils.github.io/iowa-community-blueprints/)

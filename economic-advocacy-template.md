@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Economic Advocacy Tool
+title: Economic Advocacy Template
 description: Pre-formatted template comparing front-end investments against back-end municipal costs.
 ---
 
@@ -34,7 +34,7 @@ Use this pre-formatted ledger segment to contrast preventative local investments
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Economic Solidarity Index](./README.md)  
-[← Back to Live Mobile Landing Page](../index.md)
+[← Back to Local Control Panel](./index.md)  
+[← Back to Live Master Engine](https://mmonfils.github.io/iowa-community-blueprints/)
 
 *All metrics tracked using this asset must be anchored directly to verified public budget ledgers or open municipal record receipts.*
