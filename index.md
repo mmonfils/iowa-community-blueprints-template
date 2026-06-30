@@ -2,6 +2,7 @@
 layout: default
 image: /assets/thumbnail.jpg
 ---
+<link rel="icon" type="image/png" href="/iowa-community-blueprints-template/assets/favicon.png">
 
 ### [Insert Subtitle: The Specific Local Mechanism Being Addressed]
 **Why You Are Here:** [Insert Justification: The 2-sentence emotional and structural hook that demands immediate community attention.]
