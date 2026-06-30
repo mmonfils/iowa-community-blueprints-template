@@ -33,3 +33,7 @@ title: Policy Analysis
 * **Revenue Generation Mechanisms:** [Where does the system pull its financial incentives from? Anchor to direct URL]
 * **Capital Allocation & Public Spend:** [How are municipal or private funds being deployed to sustain this policy environment? Anchor to direct URL]
 * **Financial Penalties/Externalities:** [What are the economic costs or fines associated with this dynamic? Anchor to direct URL]
+
+---
+
+[← Back to Homepage](https://mmonfils.github.io/iowa-community-blueprints-template/)

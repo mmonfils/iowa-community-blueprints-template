@@ -31,3 +31,7 @@ title: Communication Guide
 ## 4. Jargon & Compliance Scrubbing
 * [ ] **Sterile Language Purged:** Words like "systems theory," "friction cost," or "applied political economy" have been completely removed from public-facing talking points.
 * [ ] **Liability Shielding:** Messaging positions advocates as independent community peers; no legacy employers or corporate affiliations are named or implied.
+
+---
+
+[← Back to Homepage](https://mmonfils.github.io/iowa-community-blueprints-template/)

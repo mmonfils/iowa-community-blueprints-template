@@ -35,3 +35,7 @@ title: Social Analysis
 
 * **Primary Structural Actor Type A:** [Describe their systemic role and leverage points]
 * **Primary Structural Actor Type B:** [Describe their systemic role and leverage points]
+
+---
+
+[← Back to Homepage](https://mmonfils.github.io/iowa-community-blueprints-template/)

@@ -2,8 +2,13 @@ theme: jekyll-theme-cayman
 title: Local Community Blueprint
 description: Policy advocacy template with smart guardrails. Deploy a secure, professional GitHub Page for public policy campaigns in minutes.
 
+# Asset Mapping for Favicon and Sharing Thumbnails
+favicon: /assets/favicon.png
+image: /assets/thumbnail.jpg
+
 # Prevents these critical internal tools from turning into public web pages
 exclude:
+  - golden-thread.md
   - repo-guardrails.md
   - prompt-recipe.md
   - README.md

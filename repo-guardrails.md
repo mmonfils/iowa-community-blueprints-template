@@ -10,19 +10,20 @@
 * [ ] **Technical Disqualification Check:** Have all approximated, unlinked macro-statistics, phantom citations, or untraceable quantitative metrics been completely purged? If a metric cannot be traced to a live public link pointing to an official government portal, legislative service agency record, or audited academic study, it is categorically barred from the public platform.
 
 ## II. AI Distortion Filters
-The content must be systematically reviewed and cleared of the following five artificial intelligence generation anomalies:
-1. **Invention and Fabrication:** Zero instances of pure hallucination, phantom citations, fictional biographies, or ghost URL generation.
-2. **Logical and Calculative Faults:** Absolute accuracy in mathematical computations, causal relationships, and chronological alignment.
-3. **Data Extrapolation Errors:** Confirmed that no aggressive trend projections, pattern overfitting, or un-audited trendlines have been manufactured.
-4. **Semantic and Contextual Distortions:** Localized legal or financial definitions must not drift, and literalism errors must not skew data context.
-5. **Prompt-Induced Errors:** Content must be completely free of sycophancy (user please-leading tone) and maintain absolute investigative objectivity.
+The content must be systematically reviewed and cleared of the following five artificial language hallmarks:
+1. *The Synergy Snare:* Eradicate vague buzzwords ("catalyze," "foster," "robust," "tapestry," "vibrant," "testament").
+2. *The Moralizing Narrative:* Remove emotional pleading, preachy structural rhetoric, and broad sweeping assertions. Stick purely to mechanical, systemic breakdowns.
+3. *Passive Traps:* Convert all passive descriptions of structural errors into active sentences identifying the direct regulatory engine or mechanism responsible.
+4. *Formulaic Syntactical Echoes:* Purge repetitive sentence patterns, mirroring clauses, and predictable concluding paragraphs.
+5. *Structural Bloat:* Keep every generated section concise, punchy, and tightly focused on actionable blueprints.
 
-## III. The Rule of Systemic Abstraction
-* [ ] **Structural Focus Verification:** Confirmed that the text targets structural root causes, policy mechanics, and institutional frameworks rather than naming specific local private entities, individual landlords, or neighborhood businesses. 
-* [ ] **Generic Description Rule:** The text must use generic, precise structural roles (such as "a dominant tier-1 private vehicle recovery contractor operating under municipal guidelines") rather than naming specific local companies or individuals.
+## III. Systemic Abstraction Rule
+* [ ] **Entity Anonymization Ledger:** Under no circumstances will the public repository contain the actual names of individual corporate entities, local businesses, private property owners, or local landlords.
+* [ ] **Structural Role Mapping:** All targets must be abstracted up to their structural, legal, or economic roles within the municipal framework (e.g., "private tier-1 utility providers," "corporate multi-family real estate syndicates operating under municipal tax exemptions"). We target the structural policy engine, not specific local companies or individuals.
 
 ## IV. Public Terminology and Jargon Scrubbing
 * [ ] **Accessibility Review:** Verified that public-facing documents have been scrubbed of sterile academic jargon, alienating institutional phrases, and overly dense communication patterns. Technical concepts must be contextually rephrased clearly so any reader can comprehend the text without losing factual precision or authority.
+* [ ] **Stylistic Purity Check:** Verified that absolutely no emojis or em dashes (—) are present anywhere in the final output text of the documents. Use alternative clean punctuation such as colons, commas, or parentheses where necessary.
 
 ## V. Legal, Autonomy, and Disclosure Boundaries (Internal Posture)
 *Note: This section evaluates the implicit framing, posture, and systemic positioning of the document to protect the independent character of the network.*
