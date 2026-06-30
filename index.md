@@ -1,7 +1,12 @@
 ---
 layout: default
-image: /assets/thumbnail.jpg
 ---
+
+<meta property="og:url" content="https://mmonfils.github.io/iowa-community-blueprints-template/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Local Community Blueprint" />
+<meta property="og:description" content="Policy advocacy template with smart guardrails. Deploy a secure, professional GitHub Page for public policy campaigns in minutes." />
+<meta property="og:image" content="https://mmonfils.github.io/iowa-community-blueprints-template/assets/thumbnail.jpg" />
 
 ### [Insert Subtitle: The Specific Local Mechanism Being Addressed]
 **Why You Are Here:** [Insert Justification: The 2-sentence emotional and structural hook that demands immediate community attention.]
