@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /assets/thumbnail.jpg
 ---
 
 ### [Insert Subtitle: The Specific Local Mechanism Being Addressed]
