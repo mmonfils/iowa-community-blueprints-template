@@ -19,7 +19,7 @@ title: Communication Guide
 
 ---
 
-## 3. Deep Canvassing Script Script & Active Listening Prompts
+## 3. Deep Canvassing Script & Active Listening Prompts
 *An adaptable layout for on-the-ground interactions built to foster empathy and overcome institutional bias.*
 
 1. **The Hook (Story-Sharing):** "We are talking to neighbors today about [Issue described in plain language]..."
