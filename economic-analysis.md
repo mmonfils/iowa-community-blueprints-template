@@ -1,40 +1,34 @@
 ---
 layout: default
-title: Economic Advocacy Template
-description: Pre-formatted template comparing front-end investments against back-end municipal costs.
+title: Economic Analysis
 ---
 
-# ECONOMIC ADVOCACY MATRIX: [INSERT TARGET INITIATIVE NAME]
+# Economic Analysis: Dual Cost Modeling
 
-**Track Identification:** Economic Track - Ledger E-1  
-**Target Entity:** [Insert City Council, County Board of Supervisors, or Specific Committee]  
-**Primary Goal:** [Insert the precise financial shift or resource routing requested]
-
-***
-
-## I. The Current Financial Gap
-[Insert 2 to 3 sentences detailing the localized funding imbalance or service track failure. Outline the specific operational or financial bottleneck where regional cash-flow difficulties are creating unpaid service tracks or resource stress on the block.]
+## 1. Executive Summary
+*Provide a concise, 3-sentence summary quantifying the hidden economic toll of the status quo and the financial viability of a policy shift.*
 
 ---
 
-## II. Comparative Fiscal Analysis
+## 2. Human Capital Approach (Long-Term Value Losses)
+*Quantify the long-term economic loss to society caused by the policy issue (e.g., lost productivity, diminished lifelong earning potential, health burdens).*
 
-Use this pre-formatted ledger segment to contrast preventative local investments against high-intensity emergency spending.
+> **Data Integrity Guardrail Check:** Every financial figure, wage metric, or demographic range below MUST anchor to a direct, live public URL.
 
-| Action Quadrant | Front-End Neighborhood Tool (Preventative) | Back-End Institutional Cost (Emergency Response) |
-| :--- | :--- | :--- |
-| **Direct Overhead** | [Insert minimal, predictable cost to fund localized peer models or neighborhood micro-grants] | [Insert high-intensity municipal cost absorbed by city/county budgets during a systemic failure] |
-| **Operational Impact** | [Insert expected savings, stabilized housing tracks, or continuous prescription access loops] | [Insert secondary administrative overhead, legal liabilities, or emergency services drain] |
+* **Impacted Demographic / Workforce Segment:** [Describe group via systemic abstraction]
+* **Estimated Lifetime/Long-Term Loss Per Unit:** [Insert figure] -> [Insert Verified URL Anchor]
+* **Aggregate Community Valuation Impact:** [Insert total systemic loss] -> [Insert Verified URL Anchor]
 
 ---
 
-## III. Structural System Alternative
-[Insert 2 to 3 sentences explaining how the horizontal alternative structurally protects public funds. Detail how the model routes emergency infrastructure or resource buffers directly to localized networks, bypassing top-heavy administrative friction and saving taxpayer dollars.]
+## 3. Friction Cost Approach (Immediate Operational Costs)
+*Quantify the short-term, immediate operational friction costs incurred by the current system (e.g., administrative waste, emergency response costs, short-term replacement costs).*
 
-***
+* **Frictional Waste Source A (e.g., Administrative Overhead):** [Insert figure] -> [Insert Verified URL Anchor]
+* **Frictional Waste Source B (e.g., Operational Redundancy):** [Insert figure] -> [Insert Verified URL Anchor]
 
-### Mobile Navigation Return Points
-[← Back to Local Control Panel](./index.md)  
-[← Back to Live Master Engine](https://mmonfils.github.io/iowa-community-blueprints/)
+---
 
-*All metrics tracked using this asset must be anchored directly to verified public budget ledgers or open municipal record receipts.*
+## 4. Financial Grounding Audit
+* [ ] **URL Anchor Verification:** All listed metrics point to official legislative, municipal, or academic sources.
+* [ ] **Zero-Extrapolation Check:** No aggressive future trendlines or un-audited multiplier effects have been manufactured.

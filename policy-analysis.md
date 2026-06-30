@@ -1,34 +1,35 @@
 ---
 layout: default
-title: Action Roadmap
-description: Local campaign timeline guide engineered across a four-quarter horizon.
+title: Policy Analysis
 ---
 
-# ACTION ROADMAP: [INSERT LOCAL PROJECT NAME]
+# Policy Analysis: Political Economy & Power Structures
 
-**Subject:** [Insert Campaign, Bill Number, or Target Policy Priority]  
-**Primary Goal:** [The singular local outcome required to unblock the friction point]  
-**Stakeholders:** [Key decision-makers, regional administrators, or primary advocacy targets]  
-**Date of Summary:** [Insert Month DD, YYYY]
+## 1. Executive Summary
+*Provide a concise, 3-sentence summary mapping out the dominant political economy dynamics, legislative roadblocks, and resource allocations driving this issue.*
 
-***
+---
 
-# PROJECTED TIMELINE
+## 2. Legislative & Regulatory Framework
+*What are the existing municipal codes, state statutes, or administrative rules that anchor the current system?*
 
-**PHASE 1: GROUNDWORK ([INSERT TARGET QUARTER/YEAR])**
-Detail the initial groundwork here. Focus on gathering firsthand evidence or data to prove the systemic breakdown. Identify the legislative or administrative gatekeepers to target. Outline preliminary outreach to secure early commitments from foundational regional partners.
+* **Applicable Policy Reference A:** [Include specific statutory/code framework]
+* **Applicable Policy Reference B:** [Include specific statutory/code framework]
 
-**PHASE 2: DESIGN AND CONSENSUS ([INSERT TARGET QUARTER/YEAR])**
-Detail the policy design and stakeholder agreement mechanics here. Convene technical workgroups, care managers, or operators to map out the logistical workflow. Structure the financial or operational framework by adapting a verified, real-world peer model from another jurisdiction.
+---
 
-**PHASE 3: INJECTION AND ADVOCACY ([INSERT TARGET QUARTER/YEAR])**
-Detail the formal policy insertion and advocacy deployment here. Finalize the localized billing, authorization, or operational rules. Formally introduce the policy amendment or adjustment to the governing committee. Equip grassroots advocates with the briefing materials needed to support key votes.
+## 3. Power Structure Research
+*Map out the formal and informal networks of influence that govern this policy space.*
 
-**PHASE 4: SYSTEM ROLLOUT ([INSERT TARGET QUARTER/YEAR])**
-Detail the final system rollout and accountability tracking here. Coordinate with administrative or regulatory agencies to draft the final governing rules. Deploy the updated communications and operational networks ahead of statutory deadlines. Track key metrics to verify back-end institutional savings.
+* **Formal Authority (The Decision-Makers):** [e.g., City Council committees, state regulatory boards]
+* **Informal Influence (The Special Interests):** [Describe corporate, institutional, or coalition structures that influence the formal authority via systemic abstraction rules]
+* **Community Stakeholders (The Impacted Public):** [The citizens, workers, or residents bearing the brunt of the status quo]
 
-***
+---
 
-### Mobile Navigation Return Points
-[← Back to Local Control Panel](./index.md)  
-[← Back to Live Master Engine](https://mmonfils.github.io/iowa-community-blueprints/)
+## 4. Follow-the-Money Methodology
+> **Data Integrity Guardrail (Section I):** Every single dollar range, financial figure, or municipal metric listed below MUST be anchored to a live, verifiable public URL pointing to an official government portal, budget report, or audited study. Unlinked figures will result in immediate compilation disqualification.
+
+* **Revenue Generation Mechanisms:** [Where does the system pull its financial incentives from? Anchor to direct URL]
+* **Capital Allocation & Public Spend:** [How are municipal or private funds being deployed to sustain this policy environment? Anchor to direct URL]
+* **Financial Penalties/Externalities:** [What are the economic costs or fines associated with this dynamic? Anchor to direct URL]

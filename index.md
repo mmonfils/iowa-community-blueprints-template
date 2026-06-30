@@ -1,53 +1,30 @@
 ---
 layout: default
-title: Local Control Panel
-description: Open-source templates and localized public record tools for fast, independent community advocacy.
 ---
 
-## 🏡 Neighborhood Action Hub
+# [Insert Tagline: A Bold, Clear Call to Action]
+### [Insert Subtitle: The Specific Local Mechanism Being Addressed]
+**Why You Are Here:** [Insert Justification: The 2-sentence emotional and structural hook that demands immediate community attention.]
 
-Welcome to your local advocacy control panel. This autonomous workspace is designed to help your neighborhood mount fast, independent community campaigns, expose localized systemic issues, and propose community-led solutions without relying on institutional frameworks.
+---
 
-***
+## Situation: Social analysis
+*(Linked Framework: [Social Analysis](social-analysis.md) — Built on Social Determinants & Systems Theory)*
+> **Summary:** [AI-generated / Human-refined 3-sentence summary of the immediate community harm and systemic breakdowns.]
 
-## 🛠️ Active Campaign Workspace
-*Organized directly by the Repository Order of Operations sequence.*
+## Background: Policy analysis
+*(Linked Framework: [Policy Analysis](policy-analysis.md) — Built on Political Economy & Power Structure Research)*
+> **Summary:** [AI-generated / Human-refined 3-sentence summary of who owns the problem, where the money flows, and the legislative roadblocks.]
 
-## Step 1: Track a Local Area Issue
-* **Identify Issue of Public Concern:** This framework applies directly to localized breakdowns within regional choices, including city rules, zoning codes, development plans, public works, neighborhood health safety, or affordable housing gaps.
+## Assessment: Economic analysis
+*(Linked Framework: [Economic Analysis](economic-analysis.md) — Built on Human Capital & Friction Cost Approaches)*
+> **Summary:** [AI-generated / Human-refined 3-sentence summary quantifying the hidden costs of inaction versus the economic returns of fixing the system.]
 
-### Step 2: Form the Initial Facts
-* [🔍 Public Records & Policy Tracker (determinants-framework.md)](./determinants-framework.md) — The interactive Three Scales Guide framework to analyze macro policies and trace how regional administrative rules affect your street.
+## Recommendation: Solution analysis
+*(Linked Framework: [Solution Analysis](solution-analysis.md) — Built on Democratic Federalism & Economic Solidarity)*
+> **Summary:** [AI-generated / Human-refined 3-sentence summary of the actionable, structural solution community members can collectively enforce.]
 
-### Step 3: Write the Strategic Briefing
-* [📋 Local Situation Brief (situation-brief.md)](./situation-brief.md) — A clear four-quadrant brief formatting your core research into a clear Situation, Background, Assessment, and Recommendation summary.
+---
 
-### Step 4: Inject the Data Locally
-* **Direct Injection Model:** Deliver your completed Strategic Briefs and Action Roadmaps quietly and directly to a highly curated, localized pool of three to seven local Catalysts (Megaphones, Operators, and Embedded Insiders) to prevent institutional suppression.
-
-### Step 5: Draft the Action and Media Tools
-* [📍 Local Action Roadmap (action-roadmap.md)](./action-roadmap.md) — A localized checklist tracking active milestones across four distinct deployment and visibility phases.
-* [📉 Economic Advocacy Matrix (economic-advocacy-template.md)](./economic-advocacy-template.md) — A jargon-free balancing ledger to contrast municipal funding loops with corporate tax subsidies.
-* [💬 Front-Porch Communication Guide (community-guide.md)](./community-guide.md) — Practical outreach scripts and standard talk flows to establish safe communication loops between immediate neighbors.
-
-## Step 6: Launch and Execute
-* **Publish and Mobilize:** Deploy this webpage and call for action. Use your verified data assets and text alert loops to execute your roadmap steps and win lasting neighborhood protections.
-
-> ➔ For more detailed breakdown on these operational steps, you can view the full [Execution Workflow (WORKFLOW.md)](./WORKFLOW.md).
-
-***
-
-## 🧰 Extended Organizing & Reference Ecosystem
-*Looking for deeper block infrastructure, spreadsheets, or global case studies?*
-
-The workspaces above are optimized for immediate, high-speed public advocacy campaigns. For long-term neighborhood mutual aid infrastructure, utilize the master directories hosted permanently on the [Live Master Engine Hub](https://mmonfils.github.io/iowa-community-blueprints/):
-
-* **Offline Data Infrastructure Logs:** Download the flat-file tracking spreadsheets—including the *Neighborhood Toolkit Template*, *Anonymized Exchange Log*, and *Public Record Neighborhood Index* `.csv` assets—directly from the Master Solidarity Economic Track.
-* **Deep Block Infrastructure Handbooks:** Access advanced organizational protocols like the *Neighbor Organizing Playbook* and the *Decentralized Fair Task Sharing Document* via the Master Social Infrastructure Track.
-* **Global Peer-Review Matrix:** View the master static reference matrix tracking verified domestic and international policy variations to back up your local structural demands.
-
-***
-
-### Mobile Navigation Return Points
-[← Back to Live Master Engine](https://mmonfils.github.io/iowa-community-blueprints/)  
-[➔ View Original GitHub Source Code Repository](https://github.com/mmonfils/iowa-community-blueprints-template)
+## Moving to Action
+To understand how we communicate this strategy on the ground, avoid institutional traps, and build deep community consensus, read our full [Community Communication Guide](communication-guide.md).

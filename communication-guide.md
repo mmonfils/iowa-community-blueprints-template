@@ -1,37 +1,33 @@
 ---
 layout: default
-title: Community Guide Manual
-description: Field templates for neighbor communication loops and pod scripts.
+title: Communication Guide
 ---
 
-# Neighborhood Communication Script Template
+# Communication Guide: Deep Canvassing Strategy
 
-Use this template to connect major public policy shifts to clear, person-to-person talks. These open-ended discussion questions are optimized to avoid academic jargon and focus entirely on neighborhood realities.
-
----
-
-## 1. Opening the Living Room Discussion
-Begin the talk by grounding the issue in the immediate safety of your road or street. Use simple terms to focus on practical results rather than national political talking points.
-
-* **The Local Hook:** *"We are looking at how recent town decisions regarding [Insert Local Tracking Topic] are changing things on our block. We want to ensure our families are protected."*
+## 1. Executive Summary
+*Provide a 3-sentence overview of the primary narrative strategy required to shift public consensus on this issue.*
 
 ---
 
-## 2. Core Discussion Prompts
-Pass these open questions around the porch to let neighbors share direct personal experiences regarding the tracking focus.
+## 2. Core Narrative Architecture
+*Translate the systemic data into human-centered messaging without veering into sterile academic jargon.*
 
-* **Prompt 1 (Friction Check):** *"Have you or your immediate family run into issues recently with [Insert Local Bottleneck, such as housing delays or utility gaps] in our county?"*
-* **Prompt 2 (Asset Check):** *"What shared resources, tools, or neighborhood networks do we already have right here on this street that can help us protect each other?"*
+* **The Shared Value:** [What foundational community value unites both sides on this issue?]
+* **The Systemic Conflict:** [Clearly explain the structural breakdown without naming specific private entities]
+* **The Collective Path Forward:** [The unifying vision offered by the solution analysis]
 
 ---
 
-## 3. The 30-Second Closing Pitch
-Conclude the porch visit by connecting the neighbors directly back to the active digital tracking space.
+## 3. Deep Canvassing Script Script & Active Listening Prompts
+*An adaptable layout for on-the-ground interactions built to foster empathy and overcome institutional bias.*
 
-* **The Takeaway:** *"We are building an independent fact list to show local supervisors exactly how this roadblock impacts our street. You can track our public records and view our action roadmap instantly right on your phone at [Insert Personal Custom GitHub Pages URL]."*
+1. **The Hook (Story-Sharing):** "We are talking to neighbors today about [Issue described in plain language]..."
+2. **The Exploration (Eliciting Experience):** "Have you or someone you know ever dealt with a situation where..."
+3. **The Pivot (Connecting to Policy):** "The data shows this happens because of how our local rules are structured, not individual failures. What if we changed the rule to..."
 
-***
+---
 
-### Mobile Navigation Return Points
-[← Back to Local Control Panel](./index.md)  
-[← Back to Live Master Engine](https://mmonfils.github.io/iowa-community-blueprints/)
+## 4. Jargon & Compliance Scrubbing
+* [ ] **Sterile Language Purged:** Words like "systems theory," "friction cost," or "applied political economy" have been completely removed from public-facing talking points.
+* [ ] **Liability Shielding:** Messaging positions advocates as independent community peers; no legacy employers or corporate affiliations are named or implied.
