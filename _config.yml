@@ -3,8 +3,8 @@ title: Local Community Blueprint
 description: Policy Brief
 
 # Add your absolute production site URL here so plugins can stitch together paths
-url: "https://mmonfils.github.io"
-baseurl: "/iowa-community-blueprints-template"
+url: ""
+baseurl: ""
 
 # Asset Mapping for Favicon and Sharing Thumbnails
 favicon: /assets/favicon.png
