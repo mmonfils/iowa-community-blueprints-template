@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Local Community Blueprint
+subtitle: "Action Memo"
 image: /assets/thumbnail.jpg
 ---
 
