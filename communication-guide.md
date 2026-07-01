@@ -34,4 +34,4 @@ title: Communication Guide
 
 ---
 
-[← Back to Homepage](https://mmonfils.github.io/iowa-community-blueprints-template/)
+[← Back to Homepage](./)
