@@ -1,5 +1,6 @@
 ---
 layout: default
+title: [Issue of Public Concern]
 image: /assets/thumbnail.jpg
 ---
 
