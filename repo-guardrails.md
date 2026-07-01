@@ -6,7 +6,7 @@
 
 ## I. Anti-Hallucination and Data Integrity Gate
 * [ ] **Binary Grounding Enforced:** Does every macro-statistic or peer-city program reference exist with public, verifiable, historical documentation? If no exact match exists, the text MUST explicitly state: "No documented peer program found matching these criteria." Approximating, analogizing, or inventing a matching model is strictly barred.
-* [ ] **In-Line URL Anchor Check:** Are all financial figures, local programmatic metrics, or municipal dollar ranges anchored to a direct, live, and verifiable public URL?
+* [ ] **In-Line URL Anchor Check:** Are all financial figures, local programmatic metrics, or municipal dollar ranges anchored to a live, verifiable public URL? Links must be seamlessly embedded into descriptive anchor text within the sentence rather than appended as raw links or parenthetical citations. (Exempt: `communication-guide.md`).
 * [ ] **Technical Disqualification Check:** Have all approximated, unlinked macro-statistics, phantom citations, or untraceable quantitative metrics been completely purged? If a metric cannot be traced to a live public link pointing to an official government portal, legislative service agency record, or audited academic study, it is categorically barred from the public platform.
 
 ## II. AI Distortion Filters
