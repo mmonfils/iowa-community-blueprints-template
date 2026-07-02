@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Public Record Review: Community Impact Analysis
 
 [Link back to Toolkit Hub](../index.md)

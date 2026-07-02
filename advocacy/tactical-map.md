@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Advocacy Brief: Tactical Map
 
 [Link back to Toolkit Hub](../index.md)

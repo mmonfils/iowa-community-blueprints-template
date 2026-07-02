@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Advocacy Brief: Community Leverage Points
 
 [Link back to Toolkit Hub](../index.md)

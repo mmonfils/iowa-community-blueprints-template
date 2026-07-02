@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Advocacy Brief: Action Scripts
 
 [Link back to Toolkit Hub](../index.md)

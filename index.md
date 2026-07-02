@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Public Policy Advocacy Center
 
 Policy Advocacy Toolkit

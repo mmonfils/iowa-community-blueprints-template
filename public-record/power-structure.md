@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Public Record Review: Power Structure and Statutory Mapping
 
 [Link back to Toolkit Hub](../index.md)
