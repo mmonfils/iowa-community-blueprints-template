@@ -6,10 +6,6 @@ theme: jekyll-theme-cayman
 logo: assets/favicon.png
 image: assets/thumbnail.jpg
 
-# Automated System Plugins
-plugins:
-  - jekyll-seo-tag
-
 # Automated Front Matter Defaults
 defaults:
   - scope:
