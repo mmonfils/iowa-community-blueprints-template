@@ -10,5 +10,6 @@ image: assets/thumbnail.jpg
 defaults:
   - scope:
       path: ""
+      type: pages
     values:
       layout: default
