@@ -2,13 +2,10 @@ title: Public Policy Advocacy Center
 description: Closed-context policy advocacy and asset-mapping toolkit with integrated AI data guardrails.
 theme: jekyll-theme-cayman
 
-# File Optimization Assets
+# Social and Tab Assets
 logo: assets/favicon.png
 image: assets/thumbnail.jpg
 
-# Automated Front Matter Defaults
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
+# Automated System Injections
+plugins:
+  - jekyll-seo-tag

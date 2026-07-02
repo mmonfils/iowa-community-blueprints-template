@@ -1,3 +1,8 @@
+---
+layout: default
+image: assets/thumbnail.jpg
+---
+
 # Public Policy Advocacy Center
 
 Policy Advocacy Toolkit
