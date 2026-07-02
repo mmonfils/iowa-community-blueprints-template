@@ -1,6 +1,3 @@
----
-layout: default
----
 ← [Back to Hub](../index.md)
 
 # Advocacy Brief: Community Leverage Points

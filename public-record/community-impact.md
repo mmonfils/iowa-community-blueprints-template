@@ -1,6 +1,3 @@
----
-layout: default
----
 ← [Back to Hub](../index.md)
 
 # Public Record Review: Community Impact Analysis

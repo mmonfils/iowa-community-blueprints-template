@@ -1,7 +1,14 @@
-theme: jekyll-theme-cayman
 title: Public Policy Advocacy Center
-description: Community-led policy analysis, structural mapping, and grassroots advocacy.
+description: Closed-context policy advocacy and asset-mapping toolkit with integrated AI data guardrails.
+theme: jekyll-theme-cayman
+
+# File Optimization Assets
 logo: assets/favicon.png
 image: assets/thumbnail.jpg
-show_downloads: false
-google_analytics:
+
+# Automated Front Matter Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
