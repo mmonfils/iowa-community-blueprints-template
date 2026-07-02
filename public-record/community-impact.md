@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+← [Back to Hub](../index.md)
 
 # Public Record Review: Community Impact Analysis
-
-[Link back to Toolkit Hub](../index.md)
 
 ## Summary of Findings
 *   **Systemic Factors:** [Insert a plain-spoken, high school reading level summary of how the policy impacts daily community living conditions]
@@ -45,5 +44,8 @@ Instructions for execution:
 Verified URLs to investigate:
 [Insert Live URLs Here]
 ```
+
 ---
-[Return to Policy Advocacy Toolkit Hub](../index.md)
+
+### Navigation
+* [Return to Policy Advocacy Toolkit Hub](../index.md)

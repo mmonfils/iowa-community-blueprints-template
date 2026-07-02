@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+← [Back to Hub](../index.md)
 
 # Advocacy Brief: Action Scripts
-
-[Link back to Toolkit Hub](../index.md)
 
 ## What Do We Say to Move the Policy Forward?
 This page provides plain-spoken, nonpartisan communication frameworks for talking directly to neighbors, community members, and community leverage points.
@@ -46,5 +45,8 @@ Advocacy parameters:
 * Recommended Alternative: [Insert Chosen Alternative from index.md]
 * Target Leverage Points: [Insert Key Individuals from leverage-points.md]
 ```
+
 ---
-[Return to Policy Advocacy Toolkit Hub](../index.md)
+
+### Navigation
+* [Return to Policy Advocacy Toolkit Hub](../index.md)

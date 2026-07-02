@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+← [Back to Hub](../index.md)
 
 # Public Record Review: Power Structure and Statutory Mapping
-
-[Link back to Toolkit Hub](../index.md)
 
 ## Summary of Findings
 *   **Statutory Authority:** [Insert a plain-spoken summary of which level of government holds the legal power to alter this policy]
@@ -45,5 +44,8 @@ Instructions for execution:
 Verified URLs to investigate:
 [Insert Live URLs Here]
 ```
+
 ---
-[Return to Policy Advocacy Toolkit Hub](../index.md)
+
+### Navigation
+* [Return to Policy Advocacy Toolkit Hub](../index.md)

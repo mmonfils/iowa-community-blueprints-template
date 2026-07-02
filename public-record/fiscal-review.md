@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+← [Back to Hub](../index.md)
 
 # Public Record Review: Fiscal and Economic Cost Review
-
-[Link back to Toolkit Hub](../index.md)
 
 ## Summary of Findings
 *   **Public Resource Allocation:** [Insert a plain-spoken summary of where public money is currently flowing regarding this issue]
@@ -45,5 +44,8 @@ Instructions for execution:
 Verified URLs to investigate:
 [Insert Live URLs Here]
 ```
+
 ---
-[Return to Policy Advocacy Toolkit Hub](../index.md)
+
+### Navigation
+* [Return to Policy Advocacy Toolkit Hub](../index.md)

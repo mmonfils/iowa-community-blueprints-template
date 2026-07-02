@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+← [Back to Hub](../index.md)
 
 # Advocacy Brief: Tactical Map
-
-[Link back to Toolkit Hub](../index.md)
 
 ## Where is the System Stuck Right Now?
 *   **Operational Logjams:** [Insert a 2-sentence summary explaining the specific administrative, procedural, or legislative bottleneck preventing progress]
@@ -37,5 +36,8 @@ Instructions for execution:
 Data inputs to analyze:
 [Paste text or summaries from your Public Record Review files here]
 ```
+
 ---
-[Return to Policy Advocacy Toolkit Hub](../index.md)
+
+### Navigation
+* [Return to Policy Advocacy Toolkit Hub](../index.md)

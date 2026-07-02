@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+← [Back to Hub](../index.md)
 
 # Advocacy Brief: Community Leverage Points
-
-[Link back to Toolkit Hub](../index.md)
 
 ## Who Has the Leverage to Unblock It?
 *   **Primary Decision-Makers:** [Insert a 2-sentence summary listing the specific public figures, board chairs, or agency directors who hold direct authority to clear the bottleneck]
@@ -37,5 +36,8 @@ Instructions for execution:
 System bottleneck data:
 [Paste text or summaries from your Tactical Map file here]
 ```
+
 ---
-[Return to Policy Advocacy Toolkit Hub](../index.md)
+
+### Navigation
+* [Return to Policy Advocacy Toolkit Hub](../index.md)
